@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lázaro Vinaud</h1>
-<h3 align="center">A passionate frontend developer from Brazil</h3>
+<h3 align="center">A passionate backend developer from Brazil</h3>
 
 <p align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LVinaud&theme=tokyonight"/></p>
 
