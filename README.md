@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lvinaud&label=Profile%20views&color=0e75b6&style=flat" alt="lvinaud" /> </p>
 
-- 🌱 I’m currently learning **Python, Evolutionary Algorithms**
+- 🌱 I’m currently learning **Artificial Inteligence, OS**
 
-- 💬 Ask me about **C programming language**
+- 💬 Ask me about **C programming language, Evolutionary Computation, Object-Oriented Programming**
 
 - 📫 How to reach me **lazaropereiravn@gmail.com**
 
